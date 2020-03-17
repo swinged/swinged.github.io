@@ -1,0 +1,297 @@
+@media screen and (max-width: 1350px) {
+    .carousel-style-1.owl-theme .owl-nav .owl-prev,
+    .carousel-style-1.owl-theme .owl-nav .owl-next {
+        float: none;
+        margin: 0 10px;
+    }
+    .carousel-style-1.owl-theme .owl-nav {
+        position: relative;
+        margin-top: 2%;
+    }
+}
+@media screen and (min-width: 1200px) and (max-width: 1440px) {} @media screen and (min-width: 1025px) and (max-width: 1199px) {
+    .service-details h4 a {
+        font-size: 14px;
+    }
+    .facts h4 {
+        font-size: 14px;
+    }
+    ul.gallery-img li a {
+        margin: 0 8px 8px 0;
+    }
+    .filter-texts {
+        margin-top: 0;
+    }
+    ul.filter-text {
+        margin-top: 0;
+    }
+    .slider-text {
+        margin-top: 15%;
+    }
+    .filter-details {
+        padding: 12px 15px;
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1024px) {
+    .service-details h4 a {
+        font-size: 14px;
+    }
+    ul.gallery-img li a {
+        margin: 0 8px 8px 0;
+    }
+    .facts h4 {
+        font-size: 14px;
+    }
+    .filter-texts {
+        margin-top: 0;
+    }
+    ul.filter-text {
+        margin-top: 0;
+    }
+    .slider-text {
+        margin-top: 15%;
+    }
+    .filter-details {
+        padding: 12px 15px;
+    }
+    input[type=text],
+    input[type=email],
+    input[type=search],
+    input[type=password],
+    input[type=number],
+    select {
+        padding: 0 1px;
+        font-size: 13px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .navbar-header {
+        max-height: 0;
+    }
+    .navbar-nav {
+        padding-right: 0;
+    }
+    .navbar-default .navbar-nav li a {
+        padding: 37px 10px;
+    }
+    .pricing-box {
+        margin-bottom: 30px;
+    }
+    .slider-text h1 {
+        font-size: 40px;
+    }
+    .slider-text {
+        margin-top: 21%;
+    }
+    .blog-detail h4 a {
+        font-size: 15px;
+    }
+    .banner-text h2 {
+        font-size: 24px;
+    }
+    i.search-calendar {
+        right: 8px;
+    }
+    .room-filter i.search-calendar {
+        right: 7px;
+        font-size: 10px;
+        margin-top: 3px;
+    }
+    .search-calendar-boxs1 {
+        margin-bottom: 20px;
+    }
+    .search-calendar-boxs2 {
+        margin-bottom: 20px;
+    }
+    .itg-button.main-btn {
+        padding: 11px 0;
+    }
+    .filter-section-search {
+        padding: 30px 30px 10px 30px;
+    }
+    .facts {
+        padding: 50px 20px;
+    }
+    figure.filters-img img {
+        margin-bottom: 30px;
+    }
+    .blog-detail ul li {
+        padding-right: 4px;
+        font-size: 14px;
+    }
+    .blog-detail ul li a i {
+        padding-right: 5px;
+    }
+}
+@media screen and (min-width: 768px) {
+    .left-side.open .dropdown-menu {
+        margin-left: -200px !important;
+        top: 103.5% !important;
+    }
+}
+@media screen and (max-width: 767px) {
+    .theme-heading h3 {
+        font-size: 24px;
+    }
+    a.navbar-brand {
+        padding: 10px 15px;
+    }
+    .navbar-header {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+    .navbar-toggle {
+        margin-top: 15px;
+        margin-right: 15px;
+    }
+    .navbar-default {
+        background-color: #fff;
+    }
+    .navbar-default .navbar-nav li a {
+        padding: 10px 15px;
+    }
+    .navbar-default .navbar-nav li .dropdown-menu li a,
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #000;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+        color: #000;
+    }
+    .navbar-brand>img {
+        padding-top: 10px;
+    }
+    .nav-bar-icon {
+        display: none;
+    }
+    .navbar-default .navbar-nav li a:after {
+        bottom: 2px;
+    }
+    .navbar-nav {
+        padding: 10px 0;
+    }
+    .slider-text {
+        left: 0;
+    }
+    .about h3 {
+        font-size: 22px;
+    }
+    .pricing-box {
+        margin-bottom: 30px;
+    }
+    .blogs ul li {
+        padding-right: 27px;
+    }
+    .feedback-img figure img {
+        display: table;
+        margin: 0 auto;
+        margin-bottom: 15px;
+    }
+    .comment-text {
+        text-align: center;
+    }
+    button.itg-button.send-btn {
+        margin-bottom: 30px;
+    }
+    .pagination-box span {
+        margin-bottom: 30px;
+    }
+    .blog-detail h4.list-detail {
+        padding-top: 15px;
+    }
+    .error-content h2 {
+        font-size: 28px;
+    }
+    .faqs h3 {
+        font-size: 23px;
+    }
+    #accordion h5 {
+        font-size: 12px;
+    }
+    .filter-1 {
+        padding-right: 18px;
+    }
+    .service-details h4 a {
+        font-size: 14px;
+    }
+    .facts {
+        margin-bottom: 30px;
+    }
+    .facts h4 {
+        font-size: 14px;
+    }
+    .banner-text h2 {
+        font-size: 17px;
+    }
+    .banner-text p {
+        font-size: 14px;
+    }
+    .banner-btn {
+        text-align: center;
+        margin-top: 0;
+    }
+    .filter-section-search {
+        position: relative;
+        top: 0;
+        margin-top: 50px;
+    }
+	.room-filter .filter-section-search {
+		margin-top: 0;
+	}
+    .slider-section {
+        padding-bottom: 0;
+    }
+    .search-calendar-boxs1 {
+        margin-bottom: 20px;
+    }
+    .search-calendar-boxs2 {
+        margin-bottom: 20px;
+    }
+    .slider-text h3 {
+        font-size: 16px;
+    }
+    .slider-text h1 {
+        font-size: 22px;
+    }
+    figure.filters-img img {
+        margin-bottom: 30px;
+    }
+    .filter-details .box-caption-title h4 a {
+        font-size: 17px;
+    }
+    .filter-text p {
+        float: left;
+        margin-bottom: 5px;
+    }
+    ul.filter-text li {
+        margin-bottom: 5px;
+    }
+    a.itg-button.filter-btn {
+        float: left;
+        margin-top: 15px;
+    }
+}
+@media screen and (min-width: 641px) and (max-width: 767px) {
+    .slider-text {
+        margin-top: 25%;
+    }
+}
+@media screen and (min-width: 481px) and (max-width: 640px) {
+    .itg-button,
+    .itg-button-simple {
+        padding: 10px 30px;
+        font-size: 16px;
+    }
+    .slider-text {
+        margin-top: 25%;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 480px) {
+    .top-bar ul li {
+        display: inline-block;
+        margin: 0 8px;
+        font-size: 14px;
+    }
+    .slider-text {
+        margin-top: 20%;
+    }
+}
